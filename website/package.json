@@ -1,0 +1,26 @@
+{
+  "name": "website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "express-ip": "^1.0.4",
+    "mongodb": "^3.5.5",
+    "next": "9.3.1",
+    "next-connect": "^0.6.0",
+    "next-session": "^3.0.1",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "validator": "^13.0.0",
+    "zxcvbn": "^4.4.2"
+  }
+}
