@@ -4,8 +4,8 @@
   <a href="https://opensource.org/licenses/MIT" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/su\_andrewk" target="_blank">
-    <img alt="Twitter: su\_andrewk" src="https://img.shields.io/twitter/follow/su\_andrewk.svg?style=social" />
+  <a href="https://twitter.com/su_andrewk" target="_blank">
+    <img alt="Twitter: su_andrewk" src="https://img.shields.io/twitter/follow/su_andrewk.svg?style=social" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 👤 **Andrew Kachnic**
 
 * Website: ajkachnic.now.sh
-* Twitter: [@su\_andrewk](https://twitter.com/su\_andrewk)
+* Twitter: [@su_andrewk](https://twitter.com/su_andrewk)
 * Github: [@ajkachnic](https://github.com/ajkachnic)
 
 ## 🤝 Contributing
