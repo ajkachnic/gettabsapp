@@ -7,9 +7,7 @@
     padding: .75rem
     `
     return (
-      <>
       <Input {...props}></Input>
-      </>
     )
   }
 
