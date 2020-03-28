@@ -5,7 +5,8 @@ import {
   Button,
   Spacer,
   Link,
-  Text
+  Text,
+  TextInput,
 } from './atoms';
 
 export {
@@ -13,5 +14,6 @@ export {
   Button,
   Spacer,
   Link,
-  Text
+  Text,
+  TextInput
 }

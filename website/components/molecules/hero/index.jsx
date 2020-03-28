@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 
-import { Text, Spacer, Button} from '../../index';
+import { Text, Spacer, Button, } from '../../index';
 import breakpoints from '../../utils/breakpoints';
 
 const Hero = ({title, body, buttonOne, buttonTwo}) => {
