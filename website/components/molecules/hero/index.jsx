@@ -35,7 +35,7 @@ const Hero = ({title, body, buttonOne, buttonTwo}) => {
       <Spacer margin="1em 0" />
       <Grid>
         <Button>Register</Button>
-        <Button>Login</Button>
+        <Button bg="#fff" fg="#ff5f8f">Login</Button>
       </Grid>
     </Hero>
   )
