@@ -8,12 +8,15 @@ import {
   Text,
   TextInput,
 } from './atoms';
-
+import { UserContext, UserContextConsumer, UserContextProvider} from './UserContext';
 export {
   Hero,
   Button,
   Spacer,
   Link,
   Text,
-  TextInput
+  TextInput,
+  UserContext,
+  UserContextConsumer,
+  UserContextProvider,
 }

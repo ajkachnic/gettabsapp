@@ -3,11 +3,15 @@
   import styled from '@emotion/styled';
 
   const TextInput = (props) => {
-    const Input = styled.input`
-    padding: .75rem
-    `
     return (
-      <Input {...props}></Input>
+      <>
+      <style jsx>{`
+      input {
+        padding: .75em;
+      }
+      `}</style>
+    <input {...props} />
+    </>
     )
   }
 

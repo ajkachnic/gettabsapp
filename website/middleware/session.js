@@ -13,6 +13,10 @@ export default function(req, res, next) {
   })
 
   return session({
-    store: promisifyStore(mongoStore)
+    store: promisifyStore(mongoStore),
+    name: "user-session",
+    cookie: {
+      secure: true,
+    }
   })(req, res, next)
 }
